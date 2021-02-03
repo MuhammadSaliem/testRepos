@@ -1,0 +1,16 @@
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\testConsole.exe
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\testConsole.deps.json
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\testConsole.runtimeconfig.json
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\testConsole.runtimeconfig.dev.json
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\testConsole.dll
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\ref\testConsole.dll
+C:\Users\Saleem\source\repos\testConsole\bin\Debug\net5.0\testConsole.pdb
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.csprojAssemblyReference.cache
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.AssemblyInfoInputs.cache
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.AssemblyInfo.cs
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.csproj.CoreCompileInputs.cache
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.dll
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\ref\testConsole.dll
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.pdb
+C:\Users\Saleem\source\repos\testConsole\obj\Debug\net5.0\testConsole.genruntimeconfig.cache
