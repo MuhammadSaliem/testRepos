@@ -10,6 +10,7 @@ namespace testConsole
             Console.WriteLine(person.Fname);
             Console.WriteLine(person.info);
 
+
         }
     }
 }
